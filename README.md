@@ -50,4 +50,4 @@ Tenemos que implementar una arquitectura para exponer un API (B2B), de una soluc
 
 Te adjunto un diagrama de secuencia sencillo para que te hagas una idea del funcionamiento.
 
-![Diagrama](Diagrama Prueba técnica.gif)
+![Diagrama](Diagrama%20Prueba%20técnica.gif)
