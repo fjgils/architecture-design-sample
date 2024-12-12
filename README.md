@@ -49,3 +49,5 @@ Tenemos que implementar una arquitectura para exponer un API (B2B), de una soluc
 -   Justifica las decisiones tomadas en cada paso y cómo abordan los requerimientos y desafíos de "TechSolutions".
 
 Te adjunto un diagrama de secuencia sencillo para que te hagas una idea del funcionamiento.
+
+![Diagrama](Diagrama Prueba técnica.gif)
